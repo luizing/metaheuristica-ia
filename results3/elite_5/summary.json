@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "runs": 100,
+    "elite_size": 5,
+    "best_distance": 515.3429241505015,
+    "worst_distance": 622.3763652388859,
+    "mean_distance": 575.1165794638177,
+    "standard_deviation_distance": 21.733114066960272,
+    "mode_generations": 21,
+    "mean_generations": 156.2,
+    "mean_seconds": 0.5541308390000995,
+    "acceptable_distance": 649.793037445996,
+    "acceptable_successes": 100,
+    "acceptable_success_rate": 1.0,
+    "mean_generation_to_acceptable": 20.64,
+    "random_mean_distance": 866.3907165946613,
+    "improvement_over_random_percent": 33.619258788424375
+  },
+  "random_baseline": {
+    "samples": 1000,
+    "best_distance": 756.6127508019706,
+    "mean_distance": 866.3907165946613,
+    "worst_distance": 950.4551658173868
+  }
+}
